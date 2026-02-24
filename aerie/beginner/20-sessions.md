@@ -1,0 +1,20 @@
+---
+outline:
+- Now we'll try branching and asides
+  - In the chat tab Click on the fork button across from the "Rewrite your last response" bubble
+  - Name the new branch (e.g. deciduous)
+  - The last prompt and response  will disappear
+  - but the Session tab will have your new branch
+  - Back in the Workflow tab, create a new node History &rsaquo; Side Chat
+    - Connect the main pin to the Start node
+    - Connect the aside pin to the final Chat node
+    - Connect the output to the Finish node
+  - Click the Run button in the command palette and switch over to the Chat tab
+  - You'll see the intermediate results printed inline as before
+  - Once the workflow completes, the intermediate steps will collapse into a "details" section
+  - These details help you understand how the final output was generated
+  - They aren't shared with agents however
+- You can switch back to the "default" branch by clicking on it in the Session tab
+- The Lineage tab will show how the branches relate
+  - Click the refresh button on the button left corner
+---
