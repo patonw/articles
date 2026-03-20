@@ -9,6 +9,12 @@ reference images or iterate over extracted elements. Beyond transcribing text
 from images, structured extraction can also be used for things like scene
 composition, content moderation or sentiment analysis.
 
+Use cases:
+- Content moderation
+- Pre-labelling training data
+- Question answering
+- Data entry
+
 ## Image Chat
 
 You can supply images to workflows from the Chat tab.

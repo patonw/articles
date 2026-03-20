@@ -194,4 +194,4 @@ result in a significant speed up. However, there are risks.
 > To slow down the workflow and avoid failing, the workflow itself will need to
 > use rate limiting.
 
-In the next installment, we'll see how to use tools, specifically, a rate limiting tool.
+In the next installments, we'll see how to create outputs and invoke tools, specifically, a rate limiting tool.
